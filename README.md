@@ -1,4 +1,4 @@
-# DiscordLock-BD-Plugin
+# DiscordLock
 Adds a button to lock discord when you are away
 
 # Installing
