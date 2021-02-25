@@ -3,7 +3,6 @@
  * @author cojored
  * @description Adds a button to lock discord when you are away
  * @version 0.0.1
- * @invite qQ7zds27
  * @authorId 694644198531661844
  */
 
