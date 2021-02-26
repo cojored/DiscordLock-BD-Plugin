@@ -3,11 +3,28 @@
  * @author cojored
  * @description Adds a button to lock discord when you are away
  * @version 0.0.1
+ * @invite qQ7zds27
  * @authorId 694644198531661844
  */
 
 module.exports = class DiscordLock {
   load() {}
+
+  getVersion() {
+    return "0.0.1";
+  }
+
+  getDescription() {
+    return "Adds a button to lock discord when you are away";
+  }
+
+  getName() {
+    return "DiscordLock";
+  }
+
+  getAuthor() {
+    return "cojored";
+  }
 
   start() {
     this.enabled = true;
